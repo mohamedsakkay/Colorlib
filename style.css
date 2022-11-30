@@ -222,11 +222,35 @@ button:hover {
     height: 100vh;
     margin-top: -8%;
     }
+.ot-iteam {
+    display: flex;
+    flex-direction: column;
+}
 
+.text-fourpics-one{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  
+}
 
-
-
+.tfo-1 img {
+    width: 300px;
+}
+.job {
+    color: #808080;
+    font-size: 90%;
+}
+.name {
+    color: black;
+}
 
 /* ---------------- Style our team End---------------- */
 /* --------------------------------------------------- */
+
+/* ---------------- Style our services start---------------- */
+/* --------------------------------------------------- */
+
+
 
